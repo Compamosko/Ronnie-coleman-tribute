@@ -1,0 +1,16 @@
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto; 
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 26px;
+    line-height: 1.5;
+    color: #333;
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    
+}
